@@ -1,0 +1,44 @@
+
+{
+    "Raid-Market Shift-Golden Ratio": {
+      "backtest": {
+        "win_rate": 0.72,
+        "avg_risk_reward": 2.1,
+        "pnl": 15400.5,
+        "max_drawdown": -6.5
+      },
+      "live": {
+        "win_rate": 0.68,
+        "pnl": 10250.0,
+        "max_drawdown": -8.2
+      }
+    },
+    "123 Setup": {
+      "backtest": {
+        "win_rate": 0.65,
+        "avg_risk_reward": 1.9,
+        "pnl": 8800.75,
+        "max_drawdown": -7.1
+      },
+      "live": {
+        "win_rate": 0.60,
+        "pnl": 5700.0,
+        "max_drawdown": -9.4
+      }
+    },
+    "Reversal Setup": {
+      "backtest": {
+        "win_rate": 0.70,
+        "avg_risk_reward": 2.3,
+        "pnl": 13120.9,
+        "max_drawdown": -7.0
+      },
+      "live": {
+        "win_rate": 0.66,
+        "pnl": 9400.0,
+        "max_drawdown": -10.1
+      }
+    }
+  }
+  
+  
